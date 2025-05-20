@@ -108,10 +108,7 @@
       </div>
     </div>
   </body>
-</html>
-
-    
-    <div class="education-container">
+<div class="education-container">
       <h2>Riwayat Pendidikan</h2>
 
       <div class="edu-item">
@@ -153,54 +150,4 @@
         <div class="level-fill" style="width: 40%;"></div>
       </div>
     </div>
-
-    <div class="language-section">
-      <h2>Bahasa yang Dikuasai</h2>
-    <div class="language-item">
-        <h3>Bahasa Indonesia (Mahir)</h3>
-        <div class="level-bar">
-          <div class="level-fill" style="width: 100%;"></div>
-        </div>
-      </div>
-    <div class="language-item">
-        <h3>Bahasa Inggris (Menengah)</h3>
-        <div class="level-bar">
-          <div class="level-fill" style="width: 70%;"></div>
-        </div>
-      </div>
-    <div class="language-item">
-        <h4>Bahasa Jepang (Dasar)</h3>
-        <div class="level-bar">
-          <div class="level-fill" style="width: 40%;"></div>
-        </div>
-      </div>
-    </div>
-  </body>
-
-</html>
-
-<body>
-  <div class="language-section">
-    <h2>Bahasa yang Dikuasai</h2>
-  <div class="language-item">
-      <h3>Bahasa Indonesia (Mahir)</h3>
-      <div class="level-bar">
-        <div class="level-fill" style="width: 100%;"></div>
-      </div>
-    </div>
-  <div class="language-item">
-      <h3>Bahasa Inggris (Menengah)</h3>
-      <div class="level-bar">
-        <div class="level-fill" style="width: 70%;"></div>
-      </div>
-    </div>
-  <div class="language-item">
-      <h4>Bahasa Jepang (Dasar)</h3>
-      <div class="level-bar">
-        <div class="level-fill" style="width: 40%;"></div>
-      </div>
-    </div>
-
-  </div>
-</body>
 </html>
